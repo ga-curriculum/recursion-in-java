@@ -124,12 +124,12 @@ panama” once you disregard punctuation and whitespace.
 So, how about writing a recursive function to detect palindromes? What would we gain? Let’s explore. Writing a recursive
 function typically involves two components: a base case and a recursive case:
 
-**Base case**: The simplest scenario you can directly solve. An empty string is a palindrome by default since it reads
-the same forwards and backwards. Similarly, a single letter is always a palindrome because it remains unchanged when
-reversed.
-**Recursive case**: This involves reducing the problem size slightly and then applying the function recursively. For
-instance, if the first and last characters of a string match, the string is a palindrome if the substring between them
-is also a palindrome.
+- **Base case**: The simplest scenario you can directly solve. An empty string is a palindrome by default since it reads
+  the same forwards and backwards. Similarly, a single letter is always a palindrome because it remains unchanged when
+  reversed.
+- **Recursive case**: This involves reducing the problem size slightly and then applying the function recursively. For
+  instance, if the first and last characters of a string match, the string is a palindrome if the substring between them
+  is also a palindrome.
 
 Armed with our base and recursive cases, we're prepared to develop our recursive solution. Implementing the base case is
 straightforward: check if the string is empty or a single character. The recursive case involves more nuanced thinking:
