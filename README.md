@@ -189,7 +189,7 @@ public class PalindromeCheckRecursive {
       problem. As long as the problem is continuously reduced in size or complexity at each step, and the reduction is
       correctly designed, the function will inevitably converge on the base case.
 - **Question**How do function parameters remain consistent across recursive calls without getting mixed up?
-    - **Answer**Excellent observation! In recursion, each function call has its own separate execution context,
+    - **Answer**: Excellent observation! In recursion, each function call has its own separate execution context,
       including parameters and local variables. This isolation means that changes to parameters or variables in one
       recursive call do not affect those in previous or future calls. Even though it might seem as if the same function
       is being called, each instance operates independently with its own set of data, thanks to how modern programming
