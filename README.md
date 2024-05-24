@@ -17,8 +17,7 @@ By the end of this lesson, students will be able to:
 1. [Understanding Recursion](#Understanding-Recursion)
 2. [Implementing Recursion with Summation](#Implementing-Recursion-with-Summation)
 3. [Recursively Solving Palindromes](#Recursively-Solving-Palindromes)
-4. [Exercise: Practicing Recursion](#Exercise-Practicing-Recursion)
-5. [Summary and Takeaways](#Summary-and-Takeaways)
+4. [Summary and Takeaways](#Summary-and-Takeaways)
 
 ## Understanding Recursion
 
