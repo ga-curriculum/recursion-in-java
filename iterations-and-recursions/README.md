@@ -91,6 +91,6 @@ Both approaches have their strengths and weaknesses. As a programmer, understand
 |**Applicable to**|Functions/Methods|Loops|
 |**Halting condition**|To be explicitly coded.|Usually, part of the loop definition syntax.|
 |**Code size**|Less|More|
-|**Human readability**|Superior|Comparitively, inferior|
+|**Human readability**|Superior|Comparatively, inferior|
 |**Execution Speed**|Slower|Faster|
 |**Memory Usage**|More. Uses stack memory and more variable instances.|Less. No usage of stack.|
